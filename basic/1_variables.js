@@ -10,7 +10,7 @@ account_password="145"
 accountCity="mumbai"
 let accountState ;
  
-console.log(account_id);
+console.log(account_id) ;
 
 /*
 prefer not to use var
